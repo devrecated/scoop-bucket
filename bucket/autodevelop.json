@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/devrecated/autodevelop-cli/releases/download/v0.1.2/autodevelop_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/devrecated/autodevelop-cli/releases/download/v0.1.3/autodevelop_0.1.3_windows_amd64.zip",
             "bin": [
                 "autodevelop.exe"
             ],
-            "hash": "aa3945a1c34fd3940d4bdc7cfc33312b4fa272b672debd3bbbadc450baeeb876"
+            "hash": "b326fe4c6b4f9d35ec6f5667425a2acad9a4a56b5ebb9a784d38647a722b039c"
         }
     },
     "homepage": "https://github.com/devrecated/autodevelop-cli",
